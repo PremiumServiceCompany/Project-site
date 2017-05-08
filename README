@@ -55,4 +55,5 @@
                 <div class="loading-con">
                         <p>downloading, please don't close this page</p>
                         <div id="progress">
-                        <img src="/asset/images/vip/loading.gif">
+                        <img src="/asset/images/vip/loading.gif"> 
+                        
