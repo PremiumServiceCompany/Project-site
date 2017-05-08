@@ -42,3 +42,17 @@
                                 <p>3.Sometimes there will a delay for the system, you should wait for a while or refresh this page to re-download the application again and you do not have to pay for it this time.</p>
                                 <p>4.Other questions related please email us:
                                 <a href="PremiumSigningService@gmail.com">‪ZappFireOS‬</a></p>  
+                                </div>
+                </div>
+
+                <div class="contact">
+                        <a target="_blank" href="https://twitter.com/Controlmydevice" class="twitter"><i></i><span>Twitter</span></a>
+                        <a target="_blank" href="fb link" class="facebook"><i></i><span>Facebook</span></a>
+                        <a target="_blank" href="mailto:PremiumSigningService@gmail.com" class="email"><i></i><span>Email</span></a>
+                </div>
+        </div>
+        <section class="loading">
+                <div class="loading-con">
+                        <p>downloading, please don't close this page</p>
+                        <div id="progress">
+                        <img src="/asset/images/vip/loading.gif">
